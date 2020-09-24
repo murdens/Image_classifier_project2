@@ -6,6 +6,9 @@ Project code for Udacity's AI Programming with Python Nanodegree program. In thi
 Application uses a pair of Python scripts that run from the command line. 
 It is built to enable loading of image data with a mapping file of categories to names, selection of pretrained architecture and user set hyperparameters.
 
+### Graduating Certificate
+[certificate.pdf](https://github.com/murdens/Image_classifier_project2/blob/master/certificate.pdf)
+
 ### Specifications
 - Train.py, will train a new network on a dataset and save the model as a checkpoint. 
 - Predict.py, uses a trained network to predict the class for an input image. 
